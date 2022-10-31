@@ -1,4 +1,8 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/P2y4QDIsiUugH7l6EC/giphy.gif" height="250px" width="250px" > 
+  
+  ### Hi there 👋
+</div>
 
 <!--
 **Four-af/Four-af** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
