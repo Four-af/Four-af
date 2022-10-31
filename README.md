@@ -4,6 +4,9 @@
   ### Hi there 👋
 </div>
 
+![Metrics](/github-metrics.svg)
+
+
 <!--
 **Four-af/Four-af** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
