@@ -1,12 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/P2y4QDIsiUugH7l6EC/giphy.gif" height="250px" width="250px" > 
-  
-  ### Hi there 👋
+
+  ### Hello! Four here!
 </div>
+
+_______________________
 
 <!-- <div align="center" > -->
 ![Metrics](/github-metrics.svg)
 <!-- </div> -->
+
+___________________________
 
 
 
