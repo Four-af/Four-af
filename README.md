@@ -4,7 +4,11 @@
   ### Hi there 👋
 </div>
 
+<!-- <div align="center" > -->
 ![Metrics](/github-metrics.svg)
+<!-- </div> -->
+
+
 
 
 <!--
