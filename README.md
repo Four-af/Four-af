@@ -6,9 +6,10 @@
 
 _______________________
 
-<!-- <div align="center" > -->
-![Metrics](/github-metrics.svg)
-<!-- </div> -->
+<div align="center" >
+<!-- ![Metrics](/github-metrics.svg) -->
+<img src="/github-metrics.svg" alt="Metrics" width ="55%">
+</div>
 
 ___________________________
 
